@@ -1,2 +1,21 @@
 # Housing-Price-Prediction-Linear-Regression
-Problem Statement: Consider a real estate company that has a dataset containing the prices of properties in the Delhi region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.  Essentially, the company wants —  To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc.  To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.  To know the accuracy of the model, i.e. how well these variables can predict house prices.  Data Use housing dataset.
+
+## Problem Statement : 
+
+Consider a real estate company that has a dataset containing the prices of properties in the Delhi region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc. 
+
+Essentially, the company wants —  
+
+* To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc.  
+
+* To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.  
+
+* To know the accuracy of the model, i.e. how well these variables can predict house prices.  Data Use housing dataset.
+
+## Data :
+
+Use housing dataset.
+
+***
+
+This is my first attempt on a simple linear regression model to predict housing prices. Still working on improving the accuracy of the model though. This is very simple code with not much functionality.
